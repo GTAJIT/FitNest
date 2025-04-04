@@ -1,2 +1,2 @@
-# FitNest
-A minimal white fitness logo featuring a barbell and heartbeat line inside a circular, nest-like shape—perfect for a clean, modern brand identity.
+## FitNest
+A smart fitness tracker and gym companion that helps you log workouts, track progress, and crush your fitness goals—all in one place.
